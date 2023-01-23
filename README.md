@@ -9,18 +9,7 @@ Notable technologies used in this project include:
 - [React](https://reactjs.org/)
 - [Json Server](https://www.npmjs.com/package/json-server)
 
-The JSON server is made accessible by hosting it using vercel, a hosting platform. The db.json is first placed in a seperate repository, in this case that repository is:
-
-        https://github.com/Malcolm-G/flatiron-bank-data/blob/main/db.json
-        
-That repository is then deployed using vercel,which allows the db.json to act as an api with api methods like POST,DELETE and PATCH working.
-The api link is:
-
-        https://flatiron-bank-data.vercel.app/
-
-and the data used in this app is found in the link below:
-
-        https://flatiron-bank-data.vercel.app/api/transactions
+pp/api/transactions
 
 ## Project Setup
 ### Installation of application
@@ -39,7 +28,7 @@ To use this repo on your machine requires some simple steps
 - Clone the repo into your folder of choice by using the following:
 
 
-        git clone https://github.com/Malcolm-G/wk1-code-challenge-bank-of-flatiron.git
+        https://github.com/abdilatifshukri/react-hooks-week-2-code-challange
 
 - Change directory to the repo folder:
 
@@ -65,7 +54,7 @@ To use this repo on your machine requires some simple steps
 - Remember to use your username when cloning.
 
 
-        git clone https://github.com/your-username-here/wk1-code-challenge-bank-of-flatiron.git
+        git clone https://github.com/your-username-here/react-hooks-week-2-code-challange.git
 
 ### Running the application
 If you wish to run application from cloned repository:
@@ -75,13 +64,11 @@ If you wish to run application from cloned repository:
 If you wish to access the application without cloning it to your computer,simply follow this simple step:
 - Access the website by going to the following link:
    
-                https://wk1-code-challenge-bank-of-flatiron-p7a5rxkw6-malcolm-g.vercel.app/
-
-
+               https://subtle-crumble-814e5d.netlify.app
 ---
 ## Authors
 This project was contributed to by:
-- [Malcolm Githuka](https://github.com/Malcolm-G-Moringa)
+- [abdilatif Shukri](https://github.com/abdilatifshukri)
 ## License
 The project is under GNU GENERAL PUBLIC LICENSE Version 3
 
