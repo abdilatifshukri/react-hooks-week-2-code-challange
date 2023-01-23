@@ -1,0 +1,17 @@
+#my-list{
+    /* height: 20rem; */
+    background-color: rgb(28, 204, 95);
+    /* position: sticky; */
+    /* top: 0; */
+    /* z-index: 1; */
+    min-height: 15rem;
+}
+#my-list:after {
+    content: '\200b';
+}
+
+.scroll-images{
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
