@@ -1,5 +1,4 @@
 import React,{ useEffect, useState } from "react";
-import '../stylesheets/BotCollection.css';
 import BotCard from "./BotCard";
 
 const API = "https://bot-battlr-db-json.vercel.app/api/bots"
